@@ -84,3 +84,28 @@ We took into account “Release early, release often” as an open-source mantra
 # Conflict of Interest
 
 We wish to confirm that there are no known conflicts of interest associated with this publication and there has been no significant financial support for this work that could have influenced its outcome.
+
+# References
+[1]	Ananthanarayanan V, Thies W. Biocoder: A programming language for standardizing and automating biology protocols. Journal of biological engineering 2010;4(1):1-13.
+[2]	Casadevall A, Steen RG, Fang FC. Sources of error in the retracted scientific literature. The FASEB Journal 2014;28(9):3847-55.
+[3]	Chen C, Chen H, Zhang Y, Thomas HR, Frank MH, He Y, et al. TBtools: an integrative toolkit developed for interactive analyses of big biological data. Molecular plant 2020;13(8):1194-202.
+[4]	Choi K, Medley JK, König M, Stocking K, Smith L, Gu S, et al. Tellurium: an extensible python-based modeling environment for systems and synthetic biology. Biosystems 2018;171:74-9.
+[5]	Dagdia ZC, Avdeyev P, Bayzid MS. Biological computation and computational biology: survey, challenges, and discussion. Artificial Intelligence Review 2021:1-67.
+[6]	Deardorff A. Why do biomedical researchers learn to program? An exploratory investigation. Journal of the Medical Library Association: JMLA 2020;108(1):29.
+[7]	Ekmekci B, McAnany CE, Mura C. An introduction to programming for bioscientists: a Python-based primer. PLoS computational biology 2016;12(6):e1004867.
+[8]	Fourment M, Gillings MR. A comparison of common programming languages used in bioinformatics. BMC bioinformatics 2008;9(1):1-9.
+[9]	Goodman SN, Fanelli D, Ioannidis JP. What does research reproducibility mean? Science translational medicine 2016;8(341):341ps12-ps12.
+[10]	Habib PT, Alsamman AM, Hamwieh A. BioAnalyzer: Bioinformatic software of routinely used tools for analysis of genomic data. Advances in Bioscience and Biotechnology 2019;10(03):33.
+[11]	Jeon J, Kim HU. Setup of a scientific computing environment for computational biology: Simulation of a genome-scale metabolic model of Escherichia coli as an example. Journal of Microbiology 2020;58(3):227-34.
+[12]	Kohl M, Wiese S, Warscheid B. Cytoscape: software for visualization and analysis of biological networks. Data mining in proteomics. Springer; 2011, p. 291-303.
+[13]	Kunzmann P, Hamacher K. Biotite: a unifying open source computational biology framework in Python. BMC bioinformatics 2018;19(1):1-8.
+[14]	List M, Ebert P, Albrecht F. Ten simple rules for developing usable software in computational biology. Public Library of Science San Francisco, CA USA; 2017.
+[15]	Morin A, Urban J, Sliz P. A quick guide to software licensing for the scientist-programmer. PLoS Comput Biol 2012;8(7):e1002598.
+[16]	Moruzzi G. Essential Python for the Physicist. Springer; 2020.
+[17]	Perez-Riverol Y, Gatto L, Wang R, Sachsenberg T, Uszkoreit J, Leprevost FdV, et al. Ten simple rules for taking advantage of Git and GitHub. Public Library of Science San Francisco, CA USA; 2016.
+[18]	Prinz F, Schlange T, Asadullah K. Believe it or not: how much can we rely on published data on potential drug targets? Nature reviews Drug discovery 2011;10(9):712-.
+[19]	Prlić A, Procter JB. Ten simple rules for the open development of scientific software. PLoS Comput Biol 2012;8(12):e1002802.
+[20]	Vlachoudis V. FLAIR: a powerful but user friendly graphical interface for FLUKA. Proc. Int. Conf. on Mathematics, Computational Methods & Reactor Physics (M&C 2009), Saratoga Springs, New York. 176. 2009.
+[21]	Wang A, Yan X, Wei Z. ImagePy: an open-source, Python-based and platform-independent software package for bioimage analysis. Bioinformatics 2018;34(18):3238-40.
+
+
