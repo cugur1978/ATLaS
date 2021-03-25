@@ -1,4 +1,4 @@
-title: 'ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions'
+# 'ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions'
 tags:
   - ATLaS
   - Python
@@ -6,10 +6,10 @@ tags:
   - Pandas
   - solution
 authors:
-  - name: Ugur Comlekcioglu^
+  - name: Ugur Comlekcioglu^[1*]
     orcid: 0000-0001-9093-4496
     affiliation: 1
-  - name: Nazan Comlekcioglu^
+  - name: Nazan Comlekcioglu^[2]
     orcid: 0000-0001-7729-5271
     affiliation: 2
 affiliations:
