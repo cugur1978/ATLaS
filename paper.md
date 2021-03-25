@@ -1,25 +1,25 @@
 ---
-# 'ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions'
-
-Keywords: 
+title: 'ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions'
+tags:
   - ATLaS
   - Python
   - Tkinter
   - Pandas
   - solution
-  
-Authors:
-  - Ugur Comlekcioglu*
-    
-    Kahramanmaras Sutcu Imam University, Biotechnology Laboratory, Kahramanmaras, Turkey
-   
+authors:
+  - name: Ugur Comlekcioglu^[Custom footnotes for e.g. denoting who the corresponding author is can be included like this.]
     orcid: 0000-0001-9093-4496
-    
-  - Nazan Comlekcioglu
-    
-    Kahramanmaras Sutcu Imam University, Biotechnology Laboratory, Kahramanmaras, Turkey
-    
-    orcid: 0000-0001-7729-5271
+    affiliation: 1
+  - name: Nazan Comlekcioglu
+    affiliation: 2
+affiliations:
+ - name: Kahramanmaras Sutcu Imam University, Biotechnology Laboratory, Kahramanmaras, Turkey
+   index: 1
+ - name: Kahramanmaras Sutcu Imam University, Biology Department, Kahramanmaras, Turkey
+   index: 2
+date: 25 March 2021
+bibliography: paper.bib
+
  
  # Summary
  
