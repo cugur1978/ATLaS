@@ -1,4 +1,4 @@
-# 'ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions'
+# ATLaS: An assistant software for researchers to use in calculations for the preparation of solutions
 tags:
   - ATLaS
   - Python
