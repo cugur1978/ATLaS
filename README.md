@@ -1,4 +1,4 @@
 # ATLaS
 Assistant Toolkit for Laboratory Solutions
 
-Many solutions such as percentage, molar and buffer solutions are used in all experiments conducted in life science laboratories. Although the preparation of the solutions is not difficult, miscalculations that can be made during intensive laboratory work negatively affect the experimental results. In order for the experiments to work correctly, the solutions must be prepared completely correctly. In this project, a software, ATLaS (Assistant Toolkit for Laboratory Solutions), has been developed to eliminate solution errors arising from calculations. Python programming language was used in the development of ATLaS. Tkinter and Pandas libraries were used in the program. ATLaS contains five main modules (1) Percent Solutions, (2) Molar Solutions, (3) Acid-Base Solutions, (4) Buffer Solutions and (5) Unit Converter. Main modules have sub-functions within themselves. With PyInstaller, the software was converted into an stand-alone executable file.
+The manuscript of ATLaS is under review now.
