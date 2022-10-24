@@ -890,7 +890,7 @@ def read_me_open():
 
     about_label1 = Label(read_me_window, text="For citation: ")
     about_label1.place(x=0, y=168)
-    about_label2 = Label(read_me_window, text="Comlekcioglu, U. and Comlekcioglu, N. 2021. ")
+    about_label2 = Label(read_me_window, text="Comlekcioglu, U. and Comlekcioglu, N. (2021). ATLaS: Assistant Software for Life Scientists to Use in Calculations of Buffer Solutions. Tehnički glasnik, 15(4), 541-545. ")
     about_label2.place(x=0, y=198)
 
 
